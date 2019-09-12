@@ -11,7 +11,7 @@ This tool also adds the ability of exporting to multiple scales when creating th
   + SiteInspectionMap.mxd
   + SiteInspection.py
   
-** Basically just download this repository and don't mess around with the folder structure **
+**Basically just download this repository and don't mess around with the folder structure**
  
  
       
